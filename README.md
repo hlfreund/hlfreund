@@ -5,7 +5,7 @@ Thanks for stopping by!
 ## About Me
 - 💻 I’m a PhD Student in the [Genetics, Genomics, and Bioinformatics](https://ggb.ucr.edu/) program at University of California Riverside
 - 🧬 I’m currently rching microbes that inhabit the Salton Sea, and am interested in the functional diversity of the seawater, playa, and dust microbiomes
-- 📫 Reach me via [Email](mailto:hfreu002@ucr.edu)
+- 📫 Reach me via [email](mailto:hfreu002@ucr.edu)
 - 😁 Pronouns: they/them 🏳️‍🌈
 
 For more about my background, please visit my personal [website](http://hlfreund.github.io/).
