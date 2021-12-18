@@ -11,10 +11,10 @@ Thanks for stopping by!
 For more about my background, please visit my personal [website](http://hlfreund.github.io/).
 
 ## My Skill Set
-https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
-https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Top Languages on GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlfreund)](https://github.com/hlfreund/github-readme-stats)
