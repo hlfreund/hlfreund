@@ -10,24 +10,20 @@ Thanks for stopping by!
 
 For more about my background, please visit my personal [website](http://hlfreund.github.io/).
 
-## My Top Languages
+## My Skill Set
+https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+
+## Top Languages on GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlfreund)](https://github.com/hlfreund/github-readme-stats)
 
 ## My Stats
 ![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlfreund&show_icons=true&theme=merko&count_private=true)
 
-
 <!--
 **hlfreund/hlfreund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Find badges here: https://dev.to/envoy_/150-badges-for-github-pnk
 -->
