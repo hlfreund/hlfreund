@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome to my GitHub Profile 👋
+
+Thanks for stopping by! My name is Hannah, my pronouns are they/them, and I am a PhD Student in the [Genetics, Genomics, and Bioinformatics](https://ggb.ucr.edu/) program at University of California Riverside. I am currently researching microbes that inhabit the Salton Sea, and am interested in the functional diversity of the seawater, playa, and dust microbiomes. 
+
+For more about my background, please visit my personal [website](http://hlfreund.github.io/).
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlfreund)](https://github.com/hlfreund/github-readme-stats)
+
+[![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlfreund&show_icons=true&theme=radical)
+
 
 <!--
 **hlfreund/hlfreund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
