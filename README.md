@@ -14,7 +14,7 @@ For more about my background, please visit my personal [website](http://hlfreund
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlfreund)](https://github.com/hlfreund/github-readme-stats)
 
 ## My Stats
-![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlfreund&show_icons=true&theme=radical&count_private=true)
+![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlfreund&show_icons=true&theme=dark&count_private=true)
 
 
 <!--
