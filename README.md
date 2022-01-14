@@ -23,7 +23,7 @@ For more about my background, please visit my personal [website](http://hlfreund
 ![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlfreund&show_icons=true&theme=merko&count_private=true)
 
 ## How to Support
-<a href="Ko-fi.com/hannahfreund" rel="nofollow"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://ko-fi.com/hannahfreund" rel="nofollow"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" style="max-width: 100%;"></a>
 <!--
 **hlfreund/hlfreund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
