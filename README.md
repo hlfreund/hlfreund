@@ -3,8 +3,9 @@
 Thanks for stopping by!
 
 ## About Me
-- 💻 I’m a PhD Candidate in the [Genetics, Genomics, and Bioinformatics](https://ggb.ucr.edu/) program at University of California Riverside
-- 🧬 I’m currently studying microbes that inhabit the Salton Sea, and am interested in the functional diversity of the seawater, playa, and dust microbiomes
+- 💻 I’m a Postdoctoral Scholar in Dr. Cynthia Hsu's group in the Department of Medicine at UC San Diego.
+- 🎓 I have a PhD in [Genetics, Genomics, and Bioinformatics](https://ggb.ucr.edu/) from University of California, Riverside '24.
+- 🧬 My PhD research focused on exploring the microbial ecology of the Salton Sea, and am interested in the functional diversity of the seawater, playa, and dust microbiomes
 - 📫 Reach me via [email](mailto:hfreu002@ucr.edu)
 - 😁 Pronouns: they/them 🏳️‍🌈
 
