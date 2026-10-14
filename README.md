@@ -9,8 +9,6 @@ Thanks for stopping by!
 - 📫 Reach me via [email](mailto:hfreu002@ucr.edu)
 - 😁 Pronouns: they/them 🏳️‍🌈
 
-For more about my background, please visit my personal [website](http://hlfreund.github.io/).
-
 ## My Skill Set
 ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
